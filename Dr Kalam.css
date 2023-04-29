@@ -1,0 +1,60 @@
+.one{
+    background-color: rgb(173, 190, 213);
+    width: 700px;
+    border: 15px solid rgb(2, 2, 66);
+    padding:100px;
+    margin: 300px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+  }
+  html{
+      background-image: url(back-ground\ pic.gif);
+  }
+  .apj{
+      width: 150px;
+      height: 180px;
+      border-radius: 100px;
+      border-width: 100px;
+      position:relative;
+      top:50px
+  }
+  h1{
+      padding-left: 240px;
+      font-size: 40px;
+      font-style: italic;
+      letter-spacing: 1px;
+      position: relative;
+      bottom:80px;
+  }
+  .two{
+      padding-left: 450px;
+      font-size: 30px;
+      position:relative;
+      bottom:100px;
+  }
+  .three{
+      font-size: 50px;
+      font-family: Arial;
+      position: relative;
+      bottom:100px;
+  }
+  .four{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+      position: relative;
+      bottom:120px;
+  }
+  h3{
+      position: relative;
+      bottom:100px;
+  }
+  ul{
+      position:relative;
+      bottom:100px;
+      right:20px;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+  footer{
+      position:relative;
+      bottom:60px;
+      left:400px
+  }
